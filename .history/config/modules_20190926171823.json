@@ -1,17 +1,8 @@
 [
     {
-        "moduleName" : "test_plot",
-        "path"       : "modules/test_plot/test_plot.py",
-        "execute"    : true,
-        "description": "a simple example module",
-        "owner"      : ""
-    },
-    
-    
-    {
         "moduleName" : "module1",
         "path"       : "modules/module1/module1.py",
-        "execute"    : false,
+        "execute"    : true,
         "description": "a simple example module",
         "owner"      : ""
     }, {
